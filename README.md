@@ -1,4 +1,6 @@
 # ra-language-serbo
-Serbian translations for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
+Serbian latin translations for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
+
+Install: npm i ra-language-serbo-latin
 
 
