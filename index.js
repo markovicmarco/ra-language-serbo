@@ -78,7 +78,7 @@ export default {
     notification: {
       updated: 'Uspešno ažuriranje',
       created: 'Uspešno kreiranje',
-      deleted: ' Uspešno brisanje',
+      deleted: 'Uspešno brisanje',
       item_doesnt_exist: 'Element ne postoji',
       http_error: 'Greška prilikom povezivanju servera',
     },
