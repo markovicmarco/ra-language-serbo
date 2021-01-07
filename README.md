@@ -7,6 +7,7 @@ The react-admin by https://marmelab.com/react-admin/ translation.
 sr-Latn-RS Serbian (Latin) (Serbia)
 
 Usage:
+
 import serboLatinMessages from 'ra-language-serbo-latin';
 import polyglotI18nProvider from 'ra-i18n-polyglot';
 
